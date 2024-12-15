@@ -2,46 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Einführung
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Die Koordination ehrenamtlichen Engagements bringt oft Herausforderungen mit sich: Neue Mitglieder in bestehende Abläufe
+zu integrieren, kann schwierig sein. Gleichzeitig schultern häufig nur wenige Ehrenamtliche den Großteil der Aufgaben
+und geraten dabei an ihre Belastungsgrenzen.
 
-## Getting Started
+Im modernen Berufsleben kommen agile Methoden seit Langem zum Einsatz, um genau solche Probleme zu bewältigen. Durch
+klare, transparente Prozesse und Werte wird das Management von Aufgaben erleichtert und eine werteorientierte
+Zusammenarbeit gefördert.
 
-Get started by **creating a new site**.
+Eine direkte Übertragung von Scrum oder Kanban auf ehrenamtliche Tätigkeiten ist jedoch nicht immer praktikabel.
+Schließlich findet Ehrenamt in der Freizeit statt, und nicht jedes Mitglied verfügt über die gleichen zeitlichen und
+persönlichen Ressourcen.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Die Initiative **Agiles Ehrenamt** stellt erprobte Methoden vor, die sich in unseren ehrenamtlichen Projekten der letzten
+Jahre bewährt haben. Wir möchten unsere Erfahrungen teilen und konkrete Anleitungen bieten, wie agile Prinzipien
+eingesetzt werden können, um Vereinsarbeit ohne Spannungen und mit maximaler Transparenz zu gestalten. Dabei stehen
+Werte, Freude an der Arbeit und realistische Ziele stets im Mittelpunkt.
