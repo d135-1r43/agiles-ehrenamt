@@ -17,9 +17,9 @@ Scrum fußt auf drei wesentlichen Prinzipien:
 1. **Transparenz**: Alle Informationen zu Projekten und Prozessen sind für alle Mitarbeitenden sichtbar. Dadurch wissen
    alle jederzeit, was gerade passiert und welche Aufgaben als Nächstes anstehen.
 
-2. **Überprüfung (Inspection)**: In regelmäßigen Abständen wird der Arbeitsfortschritt überprüft, um sicherzustellen,
+2. **Überprüfung**: In regelmäßigen Abständen wird der Arbeitsfortschritt überprüft, um sicherzustellen,
    dass alles nach Plan läuft und mögliche Hindernisse frühzeitig erkannt werden. Der Fokus liegt dabei auf
    Unterstützung und Zusammenarbeit statt auf Kontrolle.
 
-3. **Anpassung (Adaptation)**: Wenn Abweichungen oder Probleme auftreten, kann der Kurs schnell angepasst werden. Diese
+3. **Anpassung**: Wenn Abweichungen oder Probleme auftreten, kann der Kurs schnell angepasst werden. Diese
    Flexibilität hilft dabei, besser auf Veränderungen zu reagieren.

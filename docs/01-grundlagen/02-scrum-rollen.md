@@ -15,3 +15,10 @@ Scrum definiert klare Rollen, die Verantwortlichkeiten im Team verteilen:
 Im Scrum für das Ehrenamt entfällt die Rolle des **Product Owners**. Da es im Ehrenamt selten eine Person
 gibt, die allein für die Vision und Priorisierung aller Aufgaben verantwortlich ist, übernimmt entweder eine
 Projektschablone oder das gesamte Team diese Aufgaben.
+
+:::tip
+
+Ein Scrum Master muss nicht immer die selbe Person bleiben. Es ist durchaus üblich, dass der Scrum Master nach einigen
+Sprints wechselt. Zudem ist es bei kleinen Teams auch okay, wenn der Scrum Master selbst Aufgaben übernimmt.
+
+:::
