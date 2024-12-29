@@ -1,0 +1,6 @@
+services:
+  agiles-ehrenamt:
+    build:
+      context: .
+    ports:
+      - "3005:80"
