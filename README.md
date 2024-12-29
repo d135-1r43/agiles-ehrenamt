@@ -2,7 +2,10 @@
 
 ![Agiles Ehrenamt](static/img/agiles-ehrenamt.png)
 
+[![CC](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-nd.eu.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)
+
 [![All Contributors](https://img.shields.io/github/all-contributors/d135-1r43/agiles-ehrenamt?color=ee8449&style=flat-square)](#contributors)
+[![Build and Deploy](https://github.com/d135-1r43/agiles-ehrenamt/actions/workflows/build-deploy.yml/badge.svg)](https://github.com/d135-1r43/agiles-ehrenamt/actions/workflows/build-deploy.yml)
 
 
 Die Seite ist mit [Docusaurus](https://docusaurus.io/) erstellt.
