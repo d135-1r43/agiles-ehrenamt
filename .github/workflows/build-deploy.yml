@@ -6,9 +6,6 @@ on:
   pull_request:
     branches: [ "main" ]
 
-env:
-  DOCKER_IMAGE_NAME: ghcr.io/d135-1r43/agiles-ehrenamt
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -38,4 +35,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: latest
+          tags: ghcr.io/d135-1r43/agiles-ehrenamt:latest
