@@ -75,7 +75,7 @@ const config: Config = {
           position: 'left',
           label: 'Dokumentation',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/d135-1r43/agiles-ehrenamt/',
           label: 'GitHub',
