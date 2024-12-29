@@ -5,7 +5,7 @@ sidebar_position: 3
 # Der Ablauf eines Sprints
 
 Ein Scrum-Prozess besteht aus wiederkehrenden Arbeitszyklen, den sogenannten **Sprints**, die typischerweise 2-4 Wochen
-dauern. 
+dauern.
 
 :::tip
 
@@ -17,9 +17,13 @@ Risiko, dass Probleme zu spät erkannt werden.
 
 Ein Sprint umfasst folgende Elemente:
 
-1. **Sprint-Planung**: Das Team plant gemeinsam, welche Aufgaben im kommenden Sprint erledigt werden sollen.
+1. [**Sprintplanung**](05-scrum-planning.md): Das Team plant gemeinsam, welche Aufgaben im kommenden Sprint erledigt
+   werden sollen. Dabei wird auch das Ergebnis präsentiert und Feedback von Stakeholdern eingeholt.
 
-2. **Sprint-Review**: Am Ende des Sprints wird das Ergebnis präsentiert und Feedback von Stakeholdern eingeholt.
+2. **Arbeiten am Sprint**: In einer fest vorgegebenen Zeitspanne arbeiten alle daran, die Aufgaben aus dem Sprint zu
+   erledigen. Der Scrum Master hilft dabei, Probleme zu lösen und unterstützt die Kommunikation.
+
+## Wichtige Unterschiede zum klassischen Scrum
 
 Im Scrum für das Ehrenamt entfällt das tägliche **Daily Scrum**, da es oft nicht möglich ist, sich täglich zu treffen.
 Stattdessen sollten asynchrone Kommunikationskanäle wie Chatgruppen oder regelmäßige Stammtische genutzt werden.
