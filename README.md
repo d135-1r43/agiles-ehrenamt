@@ -1,17 +1,21 @@
-# Website
+# Agiles Ehrenamt
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+![Agiles Ehrenamt](static/img/agiles-ehrenamt.png)
+
+Die Seite ist mit [Docusaurus](https://docusaurus.io/) erstellt.
+
+Änderungen sind jederzeit willkommen. Dazu bitte das Repository forken und einen Pull Request erstellen. 
 
 ### Installation der Abhängigkeiten
 
-```
-$ npm install
+```shell
+npm install
 ```
 
 ### Lokales Entwicklen
 
-```
-$ npm start
+```shell
+npm start
 ```
 
 Dieser Befehl startet einen lokalen Entwicklungsserver und öffnet ein Browserfenster. Die meisten Änderungen werden live
@@ -19,8 +23,8 @@ Dieser Befehl startet einen lokalen Entwicklungsserver und öffnet ein Browserfe
 
 ### Build
 
-```
-$ npm build
+```shell
+npm run build
 ```
 
 Dieser Befehl generiert statische Inhalte in das Verzeichnis `build`.
