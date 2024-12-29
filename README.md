@@ -2,40 +2,35 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+### Installation der Abhängigkeiten
 
 ```
-$ yarn
+$ npm install
 ```
 
-### Local Development
+### Lokales Entwicklen
 
 ```
-$ yarn start
+$ npm start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Dieser Befehl startet einen lokalen Entwicklungsserver und öffnet ein Browserfenster. Die meisten Änderungen werden live
+übernommen, ohne dass der Server neu gestartet werden muss.
 
 ### Build
 
 ```
-$ yarn build
+$ npm build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Dieser Befehl generiert statische Inhalte in das Verzeichnis `build`.
 
 ### Deployment
 
-Using SSH:
+Eine GitHub Action baut automatisch ein Docker Image mit dem Namen `ghcr.io/d135-1r43/agiles-ehrenamt:latest` auf Basis
+von NGINX. Um lokal zu bauen, kann folgende Abfolge von Befehlen verwendet werden:
 
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+````shell
+npm run build
+docker compose build
+````
