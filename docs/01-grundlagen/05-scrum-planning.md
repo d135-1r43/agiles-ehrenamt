@@ -78,7 +78,7 @@ dokumentiert werden. Ziel ist es, am Ende ein aktuelles und gut strukturiertes B
 des nächsten Sprints entspricht.
 
 Ergänzende Hinweise, wie man Aufgaben gut und richtig beschreibt, findet sich
-unter [Aufgaben richtig schreiben](../02-Tipps/aufgaben-richtig-schreiben.md).
+unter [Aufgaben richtig schreiben](../02-Fortgeschritten/aufgaben-richtig-schreiben.md).
 
 ### 25 Min: Planung des nächsten Sprints
 
