@@ -118,7 +118,9 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} unter CC BY-NC-ND. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} </br>
+                        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de"><img src="img/cc-by-nc-nd.svg" alt="CC BY-NC-ND logo" style="height: 2em;" /></a>. <br/>
+                        Built with Docusaurus`,
     },
     prism: {
       theme: prismThemes.github,
