@@ -30,12 +30,9 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build Docker Image
-        run: docker build -t $DOCKER_IMAGE_NAME:${{ github.sha }} .
-
       - name: Build and push
         uses: docker/build-push-action@v6
         with:
           context: .
           push: true
-          tags: $DOCKER_IMAGE_NAME:${{ github.sha }}
+          tags: latest
