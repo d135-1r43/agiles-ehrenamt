@@ -2,6 +2,9 @@
 
 ![Agiles Ehrenamt](static/img/agiles-ehrenamt.png)
 
+[![All Contributors](https://img.shields.io/github/all-contributors/d135-1r43/agiles-ehrenamt?color=ee8449&style=flat-square)](#contributors)
+
+
 Die Seite ist mit [Docusaurus](https://docusaurus.io/) erstellt.
 
 Änderungen sind jederzeit willkommen. Dazu bitte das Repository forken und einen Pull Request erstellen. 
@@ -38,3 +41,14 @@ von NGINX. Um lokal zu bauen, kann folgende Abfolge von Befehlen verwendet werde
 npm run build
 docker compose build
 ````
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
