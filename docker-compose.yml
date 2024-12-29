@@ -1,5 +1,6 @@
 services:
   agiles-ehrenamt:
+    image: ghcr.io/d135-1r43/agiles-ehrenamt
     build:
       context: .
     ports:
