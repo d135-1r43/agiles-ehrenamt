@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-      --ifm-color-primary: #e67333;
+    --ifm-color-primary: #e67333;
     --ifm-color-primary-dark: #cc662e;
     --ifm-color-primary-darker: #b25929;
     --ifm-color-primary-darkest: #994d24;
@@ -27,4 +27,11 @@
     --ifm-color-primary-lighter: #ffaf80; /* Weicheres Orange für Akzente */
     --ifm-color-primary-lightest: #ffc4a3; /* Sehr helles Orange für dezente Elemente */
     --docusaurus-highlighted-code-line-bg: rgba(255, 140, 77, 0.2); /* Transparenz mit Hauptfarbe */
+}
+
+.featureImg {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    max-height: 120px;
 }
