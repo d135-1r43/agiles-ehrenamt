@@ -118,7 +118,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de"><img src="img/cc-by-nc-nd.svg" alt="CC BY-NC-ND logo" style="height: 2em;" /></a>. <br/>
+      copyright: `<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de"><img src="/img/cc-by-nc-nd.svg" alt="CC BY-NC-ND logo" style="height: 2em;" /></a>. <br/>
                         Copyright © ${new Date().getFullYear()} &middot; Built with <a href="https://docusaurus.io/">Docusaurus</a>`,
     },
     prism: {
