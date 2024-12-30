@@ -18,7 +18,7 @@ Projektschablone oder das gesamte Team diese Aufgaben.
 
 :::tip
 
-Ein Scrum Master muss nicht immer die selbe Person bleiben. Es ist durchaus üblich, dass der Scrum Master nach einigen
+Die Rolle Scrum Master muss nicht immer bei derselben Person bleiben. Es ist durchaus üblich, dass der Scrum Master nach einigen
 Sprints wechselt. Zudem ist es bei kleinen Teams auch okay, wenn der Scrum Master selbst Aufgaben übernimmt.
 
 :::
