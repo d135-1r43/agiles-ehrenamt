@@ -4,12 +4,11 @@ sidebar_position: 2
 
 # Warum das Ganze?
 
-Die agile Methodik, die wir hier vorstellen, hat ihren Ursprung im *
-*[CVJM Jugendkultur & Musik e.V.](https://blastofeternity.de)**. Der Verein organisiert jährlich ein mehrtägiges
-Festival sowie zahlreiche Konzerte im Laufe des Jahres. Dabei stellten wir fest, dass ein Großteil des Fachwissens bei
-nur wenigen Mitgliedern lag – ein Zustand, der regelmäßig zu überlasteten Teammitgliedern, verpassten Deadlines und
+Die agile Methodik, die wir hier vorstellen, hat ihren Ursprung im **[CVJM Jugendkultur & Musik e.V.](https://blastofeternity.de)**. Der Verein organisiert jährlich ein mehrtägiges Festival sowie zahlreiche Konzerte im Laufe des Jahres. Dabei stellten wir fest, dass ein Großteil des Fachwissens bei nur wenigen Mitgliedern lag – ein Zustand, der regelmäßig zu überlasteten Teammitgliedern, verpassten Deadlines und
 Verzögerungen führte. Gerade im Veranstaltungsmanagement, wo Deadlines unverrückbar sind, war dies besonders
 problematisch: Ein großes Event kann nicht einfach verschoben werden.
+
+![Agiles Arbeiten](/img/music.png)
 
 ## Unsere Ziele
 
