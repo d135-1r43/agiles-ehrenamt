@@ -54,6 +54,7 @@ docker compose build
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://explore.de"><img src="https://avatars.githubusercontent.com/u/545499?v=4?s=100" width="100px;" alt="Markus Herhoffer"/><br /><sub><b>Markus Herhoffer</b></sub></a><br /><a href="#infra-d135-1r43" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#code-d135-1r43" title="Code">💻</a> <a href="#content-d135-1r43" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cjue"><img src="https://avatars.githubusercontent.com/u/20859666?v=4?s=100" width="100px;" alt="Christian Jülg"/><br /><sub><b>Christian Jülg</b></sub></a><br /><a href="#content-cjue" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
