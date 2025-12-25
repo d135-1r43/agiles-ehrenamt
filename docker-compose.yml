@@ -1,7 +1,9 @@
 services:
   agiles-ehrenamt:
     image: ghcr.io/d135-1r43/agiles-ehrenamt
-    build:
-      context: .
-    ports:
-      - "3005:80"
+    networks:
+      - nginx-proxy-manager
+
+networks:
+  nginx-proxy-manager:
+    external: true
