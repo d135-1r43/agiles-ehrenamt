@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt status)",
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt diff)",
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt log --oneline -5)",
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt add docker-compose.yml)",
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt commit -m \"$\\(cat <<''EOF''\nConfigure docker-compose for nginx-proxy-manager deployment\n\n- Remove ports mapping \\(now accessed via reverse proxy\\)\n- Remove build section \\(use pre-built image from registry\\)\n- Join external nginx-proxy-manager network\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}
