@@ -65,8 +65,6 @@ ansonsten beginnen die Kosten bei 7,25 € pro Mitglied und Monat (Pro-Plan).
 eine intuitive Benutzeroberfläche mit Boards, Listen und Karten, die sich leicht per Drag-and-Drop verschieben lassen.
 Trello eignet sich besonders gut für die Visualisierung von Arbeitsabläufen und ist für kleinere Teams einfach zu nutzen.
 
-![Trello](/img/tools/trello.png)
-
 **Vorteile:**
 
 - Sehr einfache und intuitive Bedienung mit flacher Lernkurve.
@@ -93,8 +91,6 @@ selbst gehostet werden, sodass alle Daten unter eigener Kontrolle bleiben.
 [**Nextcloud**](https://nextcloud.com) ist eine umfassende Open-Source-Plattform für Zusammenarbeit und Dateimanagement.
 Ursprünglich als Cloud-Speicherlösung entwickelt, bietet Nextcloud heute ein vollständiges Ökosystem mit Apps für
 Projektmanagement (Deck), Dokumentenbearbeitung (Collabora/OnlyOffice), Chat (Talk), Kalender und vieles mehr.
-
-![Nextcloud](/img/tools/nextcloud.png)
 
 **Vorteile:**
 
@@ -123,8 +119,6 @@ europäische Datenschutzstandards erfüllt.
 [**Taiga**](https://taiga.io) ist eine Open-Source-Plattform für agiles Projektmanagement, die speziell für Scrum- und
 Kanban-Teams konzipiert wurde. Es bietet Funktionen wie User Stories, Sprints, Kanban-Boards und Burndown-Charts in
 einer modernen, übersichtlichen Benutzeroberfläche.
-
-![Taiga](/img/tools/taiga.png)
 
 **Vorteile:**
 
@@ -155,8 +149,6 @@ Datensicherheit nach europäischen Standards gewährleistet.
 datenschutzfreundliche Alternative zu Slack entwickelt wurde. Die Software kann selbst gehostet werden und bietet
 umfangreiche Integrationsmöglichkeiten sowie Funktionen für sichere Team-Kommunikation.
 
-![Mattermost](/img/tools/mattermost.png)
-
 **Vorteile:**
 
 - Vollständige Datenkontrolle durch Self-Hosting.
@@ -185,8 +177,6 @@ europäische Datenschutzstandards gewährleistet.
 Lösung entwickelt wurde. Es bietet eine ähnliche Funktionalität wie Trello, jedoch mit vollständiger Kontrolle über
 die eigenen Daten.
 
-![Wekan](/img/tools/wekan.png)
-
 **Vorteile:**
 
 - Open Source und kostenlos.
@@ -210,8 +200,6 @@ die eigenen Daten.
 Nachverfolgung ihrer Arbeit unterstützt. Es bietet verschiedene Ansichten (Listen, Boards, Timeline, Kalender) und
 eignet sich sowohl für agile als auch für traditionelle Projektmanagement-Methoden.
 
-![Asana](/img/tools/asana.png)
-
 **Vorteile:**
 
 - Vielseitig einsetzbar für verschiedene Projektmanagement-Methoden.
@@ -234,8 +222,6 @@ eignet sich sowohl für agile als auch für traditionelle Projektmanagement-Meth
 [**Microsoft Teams**](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) ist eine umfassende
 Kollaborationsplattform, die Chat, Video-Konferenzen, Dateifreigabe und Integration mit Office 365 kombiniert. Für
 Vereine, die bereits Microsoft 365 nutzen, ist Teams eine naheliegende Wahl.
-
-![Microsoft Teams](/img/tools/teams.png)
 
 **Vorteile:**
 

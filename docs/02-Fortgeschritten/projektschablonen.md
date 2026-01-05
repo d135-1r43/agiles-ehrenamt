@@ -8,7 +8,7 @@ Projektschablonen sind ein mächtiges Werkzeug im agilen Ehrenamt, um wiederkehr
 dabei von den Erfahrungen der Vorjahre zu profitieren. Sie dienen als Vorlage für Projekte, die sich jährlich oder
 regelmäßig wiederholen, wie z. B. das Sommerfest, die Jahreshauptversammlung oder die Weihnachtsfeier.
 
-![Projektschablonen](/img/tools/projektschablonen.png)
+![Projektschablonen](/img/projektschablonen.png)
 
 ## Was ist eine Projektschablone?
 
