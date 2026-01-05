@@ -34,8 +34,3 @@ jobs:
           context: .
           push: true
           tags: ghcr.io/d135-1r43/agiles-ehrenamt:latest
-
-      - name: Call a webhook for Portainer
-        uses: distributhor/workflow-webhook@v3
-        with:
-          webhook_url: ${{ secrets.PORTAINER_WEBHOOK_URL }}
