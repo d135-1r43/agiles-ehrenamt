@@ -77,7 +77,7 @@ Trello eignet sich besonders gut für die Visualisierung von Arbeitsabläufen un
 **Nachteile:**
 
 - Weniger flexibel als Notion bei komplexeren Datenstrukturen.
-- Kein integrierter Chat oder Messaging-Funktion.
+- Kein integrierter Chat oder keine Messaging-Funktion.
 - Die kostenlosen Funktionen sind für größere Projekte möglicherweise zu eingeschränkt.
 
 **Preis:** Kostenloser Basisplan verfügbar. Premium-Pläne beginnen bei 5 € pro Mitglied und Monat.

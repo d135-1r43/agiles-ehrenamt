@@ -30,7 +30,7 @@ Zu Beginn des Meetings werden die Aufgaben des abgeschlossenen Sprints überprü
 Beamer oder mittels Screensharing präsentiert. Diese Phase sollte ca. 20 Minuten dauern.
 
 Hierbei ist es wichtig, einen **Safe Space** zu schaffen, damit Probleme und Hindernisse offen angesprochen werden
-können. Das kann z. Bsp. eine noch nicht eingegangene Gestattung für das Sportfest sein oder eine Verzögerung beim
+können. Das kann z. B. eine noch nicht eingegangene Gestattung für das Sportfest sein oder eine Verzögerung beim
 Einzug der Mitgliedsbeiträge aufgrund von Krankheit.
 
 Auch Erfolge sollten sichtbar gemacht und gewürdigt werden. Wurde beispielsweise ein neuer Trainer gefunden und
@@ -77,7 +77,7 @@ Alles, was für die erfolgreiche Bearbeitung einer Aufgabe wichtig ist, sollte i
 dokumentiert werden. Ziel ist es, am Ende ein aktuelles und gut strukturiertes Backlog zu haben, das den Anforderungen
 des nächsten Sprints entspricht.
 
-Ergänzende Hinweise, wie man Aufgaben gut und richtig beschreibt, findet sich
+Ergänzende Hinweise, wie man Aufgaben gut und richtig beschreibt, finden sich
 unter [Aufgaben richtig schreiben](../02-Fortgeschritten/aufgaben-richtig-schreiben.md).
 
 ### 25 Min: Planung des nächsten Sprints
