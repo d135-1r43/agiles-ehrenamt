@@ -7,7 +7,16 @@
       "Bash(git -C /Users/markus/git/agiles-ehrenamt add docker-compose.yml)",
       "Bash(git -C /Users/markus/git/agiles-ehrenamt commit -m \"$\\(cat <<''EOF''\nConfigure docker-compose for nginx-proxy-manager deployment\n\n- Remove ports mapping \\(now accessed via reverse proxy\\)\n- Remove build section \\(use pre-built image from registry\\)\n- Join external nginx-proxy-manager network\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git -C /Users/markus/git/agiles-ehrenamt log --oneline -20)",
-      "Bash(npm run start)"
+      "Bash(npm run start)",
+      "Bash(gh run list:*)",
+      "Bash(gh run view:*)",
+      "Bash(npm run build:*)",
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt diff blog/2026-01-06-neuigkeiten-und-updates.md)",
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt add blog/2026-01-06-neuigkeiten-und-updates.md)",
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt commit -m \"$\\(cat <<''EOF''\n🐛 \\(blog\\): Fix broken documentation links in blog post\n\n- Update links to use correct Fortgeschritten folder paths\n- Add truncate marker for better blog preview\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt push)",
+      "Bash(gh run watch:*)",
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt log --oneline --since=\"2 months ago\")"
     ]
   }
 }
