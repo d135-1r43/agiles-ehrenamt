@@ -63,7 +63,8 @@ ansonsten beginnen die Kosten bei 7,25 € pro Mitglied und Monat (Pro-Plan).
 
 [**Trello**](https://trello.com) ist ein visuelles Projektmanagement-Tool, das auf dem Kanban-Prinzip basiert. Es bietet
 eine intuitive Benutzeroberfläche mit Boards, Listen und Karten, die sich leicht per Drag-and-Drop verschieben lassen.
-Trello eignet sich besonders gut für die Visualisierung von Arbeitsabläufen und ist für kleinere Teams einfach zu nutzen.
+Trello eignet sich besonders gut für die Visualisierung von Arbeitsabläufen und ist für kleinere Teams einfach zu
+nutzen.
 
 **Vorteile:**
 
@@ -241,26 +242,148 @@ Vereine, die bereits Microsoft 365 nutzen, ist Teams eine naheliegende Wahl.
 [Microsoft 365 für Non-Profits](https://www.microsoft.com/de-de/nonprofits/microsoft-365) kostenlos oder stark
 vergünstigt erhältlich.
 
+## Online-Whiteboards für Retrospektiven
+
+Für virtuelle Retrospektiven und kreative Zusammenarbeit sind Online-Whiteboard-Tools unverzichtbar. Sie ermöglichen es
+Teams, gemeinsam zu brainstormen, Ideen zu visualisieren und strukturierte Retrospektiven durchzuführen.
+
+### Miro
+
+[**Miro**](https://miro.com) ist eines der führenden Online-Whiteboard-Tools mit umfangreichen Funktionen für visuelle
+Zusammenarbeit. Es bietet eine unendliche Arbeitsfläche, auf der Teams gemeinsam arbeiten, Ideen strukturieren und
+Retrospektiven durchführen können.
+
+**Vorteile:**
+
+- Sehr umfangreiche Funktionen und vorgefertigte Templates
+- Spezielle Templates für Scrum und Retrospektiven (Start-Stop-Continue, Mad-Sad-Glad, etc.)
+- Echtzeit-Zusammenarbeit mit unbegrenzt vielen Teilnehmern
+- Intuitive Bedienung mit Drag-and-Drop
+- Gute Integration mit anderen Tools (Slack, Microsoft Teams, Zoom)
+- Video-Chat direkt im Board möglich
+
+**Nachteile:**
+
+- Kostenloser Plan ist eingeschränkt (maximal 3 bearbeitbare Boards)
+- Kann für Einsteiger überwältigend sein
+- Erfordert stabile Internetverbindung
+
+**Preis:** Kostenloser Basisplan verfügbar. Team-Plan ab 8 € pro Mitglied und Monat.
+[Sonderkonditionen für Non-Profits](https://miro.com/nonprofit/) verfügbar.
+
+### Mural
+
+[**Mural**](https://www.mural.co) ist ein weiteres professionelles Online-Whiteboard-Tool, das besonders für
+strukturierte Workshops und Retrospektiven geeignet ist. Es bietet ähnliche Funktionen wie Miro mit einem leicht anderen
+Schwerpunkt auf Facilitation.
+
+**Vorteile:**
+
+- Exzellente Templates für agile Methoden und Retrospektiven
+- Gute Moderationsfunktionen (Timer, private Mode, Voting)
+- Strukturierte Facilitation-Features
+- Gute Benutzeroberfläche und Performance
+- Integration mit gängigen Tools
+
+**Nachteile:**
+
+- Kostenloser Plan sehr eingeschränkt
+- Ähnlich komplex wie Miro
+- Etwas teurer als Alternativen
+
+**Preis:** Kostenloser Testplan mit Einschränkungen. Team-Plan ab ca. 12 € pro Mitglied und Monat.
+
+### Google Jamboard
+
+[**Google Jamboard**](https://jamboard.google.com) ist Googles Whiteboard-Lösung, die besonders einfach und zugänglich
+ist. Ideal für Teams, die bereits Google Workspace nutzen.
+
+**Vorteile:**
+
+- Sehr einfach und intuitiv zu bedienen
+- Kostenlos für alle mit Google-Account
+- Gute Integration in Google Workspace
+- Keine Lernkurve, sofort einsetzbar
+- Funktioniert gut auf Tablets und Mobilgeräten
+
+**Nachteile:**
+
+- Deutlich weniger Funktionen als Miro oder Mural
+- Keine speziellen Templates für Retrospektiven
+- Begrenzte Arbeitsfläche (kein unendliches Canvas)
+- Grundlegende Funktionen ausreichend für einfache Retrospektiven, aber nicht für komplexe Workshops
+
+**Preis:** Kostenlos für alle mit Google-Account.
+
+**Empfehlung:** Gut geeignet für den Einstieg und einfache Retrospektiven, bei denen keine komplexen Funktionen benötigt
+werden.
+
+### FunRetro
+
+[**FunRetro**](https://funretro.io) ist ein spezialisiertes Tool ausschließlich für Retrospektiven. Es ist bewusst
+einfach gehalten und fokussiert sich auf die Kernfunktionen für Sprint-Retrospektiven.
+
+**Vorteile:**
+
+- Speziell für Retrospektiven entwickelt
+- Sehr einfach und fokussiert
+- Verschiedene Retrospektiven-Formate vordefiniert (Start-Stop-Continue, Mad-Sad-Glad, 4Ls, etc.)
+- Kostenlos nutzbar
+- Keine Registrierung für Teilnehmer erforderlich
+- Export der Ergebnisse möglich
+
+**Nachteile:**
+
+- Nur für Retrospektiven, nicht für andere Zwecke
+- Weniger visuell als Miro oder Mural
+- Keine Integration mit anderen Tools
+- Begrenzte Anpassungsmöglichkeiten
+
+**Preis:** Kostenlos mit optionalen Premium-Features.
+
+**Empfehlung:** Perfekt für Teams, die ein schlankes, fokussiertes Tool nur für Retrospektiven suchen, ohne
+Schnickschnack.
+
+### Vergleich: Welches Whiteboard-Tool wählen?
+
+| Tool         | Kosten    | Komplexität  | Funktionsumfang  | Beste Nutzung                                     |
+|--------------|-----------|--------------|------------------|---------------------------------------------------|
+| **Miro**     | €€        | Hoch         | Sehr umfangreich | Professionelle Teams, umfangreiche Retrospektiven |
+| **Mural**    | €€€       | Hoch         | Sehr umfangreich | Strukturierte Workshops, Facilitation             |
+| **Jamboard** | Kostenlos | Niedrig      | Basis            | Einfache Retrospektiven, Einstieg                 |
+| **FunRetro** | Kostenlos | Sehr niedrig | Fokussiert       | Nur Retrospektiven, minimalistisch                |
+
+**Empfehlung für Vereine:**
+
+- **Einstieg**: Google Jamboard oder FunRetro (kostenlos, einfach)
+- **Fortgeschritten**: Miro (umfangreich, Non-Profit-Rabatte verfügbar)
+- **Nur Retrospektiven**: FunRetro (spezialisiert und kostenlos)
+
 ## Zusammenfassung und Empfehlungen
 
 Die Wahl des richtigen Tools hängt von den spezifischen Bedürfnissen Ihres Vereins ab:
 
 **Für maximale Datenkontrolle und europäische Souveränität:**
+
 - **Nextcloud + Mattermost + Wekan/Taiga**: Diese Kombination bietet eine vollständige Open-Source-Lösung mit
   Dateimanagement, Chat und Projektmanagement unter eigener Kontrolle.
 
 **Für einfachen Einstieg mit gutem Preis-Leistungs-Verhältnis:**
+
 - **Trello + Slack**: Bewährte Kombination mit kostenfreien Basisplänen und Non-Profit-Rabatten.
 - **Notion**: All-in-One-Lösung für Teams mit hoher digitaler Kompetenz.
 
 **Für agile Teams mit Fokus auf Scrum/Kanban:**
+
 - **Taiga**: Speziell für agile Methoden entwickelt, Open Source.
 - **Asana**: Kommerzielle Alternative mit vielseitigen Funktionen.
 
 **Für Microsoft 365-Nutzer:**
+
 - **Microsoft Teams**: Wenn bereits im Microsoft-Ökosystem, nahtlose Integration.
 
 Bei der Entscheidung sollten folgende Faktoren berücksichtigt werden:
+
 - Technische Kompetenz im Team (Self-Hosting vs. Cloud)
 - Budget und verfügbare Non-Profit-Rabatte
 - Datenschutz- und Souveränitätsanforderungen

@@ -16,7 +16,9 @@
       "Bash(git -C /Users/markus/git/agiles-ehrenamt commit -m \"$\\(cat <<''EOF''\n🐛 \\(blog\\): Fix broken documentation links in blog post\n\n- Update links to use correct Fortgeschritten folder paths\n- Add truncate marker for better blog preview\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git -C /Users/markus/git/agiles-ehrenamt push)",
       "Bash(gh run watch:*)",
-      "Bash(git -C /Users/markus/git/agiles-ehrenamt log --oneline --since=\"2 months ago\")"
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt log --oneline --since=\"2 months ago\")",
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt log --oneline -3)",
+      "Bash(git -C /Users/markus/git/agiles-ehrenamt diff docs/02-Fortgeschritten/retrospektiven.md)"
     ]
   }
 }
