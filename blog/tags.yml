@@ -1,19 +1,19 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+updates:
+  label: Updates
+  permalink: /updates
+  description: Neuigkeiten und Updates zum Projekt
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+dokumentation:
+  label: Dokumentation
+  permalink: /dokumentation
+  description: Beiträge zur Dokumentation
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+tools:
+  label: Tools
+  permalink: /tools
+  description: Werkzeuge und Hilfsmittel
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+agile:
+  label: Agile Methoden
+  permalink: /agile
+  description: Agile Methoden im Ehrenamt
