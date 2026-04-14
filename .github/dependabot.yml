@@ -4,6 +4,14 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    groups:
+      docusaurus:
+        patterns:
+          - "@docusaurus/*"
+      react:
+        patterns:
+          - "react"
+          - "react-dom"
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
