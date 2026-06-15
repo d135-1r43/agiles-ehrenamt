@@ -26,6 +26,33 @@ const config: Config = {
         locales: ['de'],
     },
 
+    plugins: [
+        // Privacy-friendly analytics by Plausible
+        function plausiblePlugin() {
+            return {
+                name: 'plausible-plugin',
+                injectHtmlTags() {
+                    return {
+                        headTags: [
+                            {
+                                tagName: 'script',
+                                attributes: {
+                                    async: true,
+                                    src: 'https://plausible.herhoffer.net/js/pa-QGMSY3Wpq5yt5cGkz8EK9.js',
+                                },
+                            },
+                            {
+                                tagName: 'script',
+                                innerHTML:
+                                    'window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};plausible.init()',
+                            },
+                        ],
+                    };
+                },
+            };
+        },
+    ],
+
     presets: [
         [
             'classic',
