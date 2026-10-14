@@ -5,18 +5,37 @@ updates:
     schedule:
       interval: "daily"
     groups:
-      docusaurus:
+      npm:
+        applies-to: version-updates
         patterns:
-          - "@docusaurus/*"
-      react:
+          - "*"
+      npm-security:
+        applies-to: security-updates
         patterns:
-          - "react"
-          - "react-dom"
+          - "*"
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
       interval: "weekly"
+    groups:
+      docker:
+        applies-to: version-updates
+        patterns:
+          - "*"
+      docker-security:
+        applies-to: security-updates
+        patterns:
+          - "*"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
+    groups:
+      github-actions:
+        applies-to: version-updates
+        patterns:
+          - "*"
+      github-actions-security:
+        applies-to: security-updates
+        patterns:
+          - "*"
